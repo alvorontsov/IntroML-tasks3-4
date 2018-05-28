@@ -1,0 +1,44 @@
+Preparation
+
+You have to make tasks 1-2
+
+Tasks
+
+3. A continuation of toy tasks with MNIST. Last and simple. 
+I implemented for you working notebook, work_book2_1.ipynb . It's almost same with 2nd task but now net is convolutional!
+
+To Do
+- Undersand how it works.
+- Get the best accuracy you can. You are free to add new layers. I expect more that 99,2% accuray on test set. If you have less don't hesitate to send me an email.
+- Look and answer which images in test set are classified wrong? why?
+- How many times less parameters in this model in comparison with the model in task 2?
+Prohibitedto use: 
+nothing
+
+Report:
+ python file with your implementation. I will run it.
+ answer on my questions
+ Accuracy(%), describe what and why you have changed, the code. What changes were most important. Put it in the shared table https://docs.google.com/spreadsheets/d/17J278Kfp3IgGPzWg2CQ3gkfHcFHfl7cxe4x0vI1YsMg/edit#gid=0
+
+Deadline: 1 week
+
+4. Faces. Real life example. Almost reallife. I decided to help you and I give you a set of images collected for my bachelor thesis in past. There are almost same net work_book2_2.ipynb .
+You really need a gpu now. (if you can't find a machine with gpu send me an email)
+
+To Do
+- Get the best accuracy you can. You are free to add new layers. I expect more that 50% accuray on test set. If you have less don't hesitate to send me an email.
+
+Prohibited to use:
+nothing
+
+Report:
+Accuracy(%), describe what and why you have changed, the code. What changes were most important. Put it in the shared table https://docs.google.com/spreadsheets/d/17J278Kfp3IgGPzWg2CQ3gkfHcFHfl7cxe4x0vI1YsMg/edit#gid=0
+Winners will be awarded.
+python file with your implementation. I will not run it.
+Screenshot of result accuracy
+
+Deadline: 1 week
+
+
+Aleksandr Korabelnikov, korabelnikov@smedx.com
+
